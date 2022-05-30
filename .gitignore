@@ -1,0 +1,8 @@
+# Don't track content of these folders #
+FolderNotToBeTracked/
+
+# Fichiers de type #
+###################
+*.txt
+*.pdf
+*.xlsx
